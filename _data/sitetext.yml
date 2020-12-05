@@ -2,14 +2,7 @@ header:
     title: Welcome to our Studio!
     text: It's Nice To Meet You
     button: Tell Me More
-    buttonlink: "#services"
-
-portfolio:
-    title: "Portfolio"
-    text: "Lorem ipsum dolor sit amet consectetur."
-    section: portfolio
-    closebutton: "Close Project"
-    
+    buttonlink: "#services"    
 
 timeline:
     title: "About" 
@@ -46,6 +39,12 @@ about:
     title: "About Us"
     text: "our story"
     section: about
+    
+portfolio:
+    title: "Portfolio"
+    text: "Lorem ipsum dolor sit amet consectetur."
+    section: portfolio
+    closebutton: "Close Project"
 
 clients:
     section: clients
